@@ -4,6 +4,7 @@
   "scripts": {
     "dev:web": "pnpm --filter web dev",
     "build:web": "pnpm --filter web build",
+    "dev:mobile": "pnpm --filter todo-mobile dev",
     "typecheck": "pnpm -r typecheck"
   },
   "devDependencies": {
